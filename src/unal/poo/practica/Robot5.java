@@ -70,6 +70,7 @@ public class Robot5 {
         move(7) ;
         estudiante.turnLeft() ;
         move(2) ;
+        for( int i = 0 ; i < 5 ; i++ ) estudiante.move() ;
     }
     
 }
