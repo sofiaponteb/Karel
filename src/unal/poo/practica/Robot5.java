@@ -67,6 +67,9 @@ public class Robot5 {
         estudiante = new Robot(objetos, 10, 1, Direction.NORTH, 0) ;
         estudiante.move() ;
         //find() ;
+        move(7) ;
+        estudiante.turnLeft() ;
+        move(2) ;
     }
     
 }
