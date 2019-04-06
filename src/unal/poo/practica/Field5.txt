@@ -4,13 +4,31 @@ Harvest a Field
 # intersection size (in pixels) 
 38
 # things
+   becker.robots.Thing 5 1
+   becker.robots.Thing 5 2
+   becker.robots.Thing 5 3
+   becker.robots.Thing 5 4
+   becker.robots.Thing 5 5
    becker.robots.Thing 6 1
-   becker.robots.Thing 8 1
-   becker.robots.Thing 6 3 
-   becker.robots.Thing 8 3
+   becker.robots.Thing 6 2
+   becker.robots.Thing 6 3
+   becker.robots.Thing 6 4
    becker.robots.Thing 6 5
+   becker.robots.Thing 7 1
+   becker.robots.Thing 7 2
+   becker.robots.Thing 7 3
+   becker.robots.Thing 7 4
+   becker.robots.Thing 7 5
+   becker.robots.Thing 8 1
+   becker.robots.Thing 8 2
+   becker.robots.Thing 8 3
+   becker.robots.Thing 8 4
    becker.robots.Thing 8 5
-   
+   becker.robots.Thing 9 1
+   becker.robots.Thing 9 2
+   becker.robots.Thing 9 3
+   becker.robots.Thing 9 4
+   becker.robots.Thing 9 5
 # wall
     becker.robots.Wall 5 1 Direction.NORTH
     becker.robots.Wall 5 1 Direction.WEST
